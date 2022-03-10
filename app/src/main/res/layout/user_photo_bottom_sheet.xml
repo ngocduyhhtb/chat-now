@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    app:behavior_hideable="false"
+    app:behavior_peekHeight="0dp"
+    app:layout_behavior="android.support.design.widget.BottomSheetBehavior">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="40sp"
+        android:text="Chọn ảnh từ điện thoại"
+        android:gravity="center"
+        android:textSize="17sp"
+        android:textStyle="bold"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="40sp"
+        android:text="Chụp ảnh"
+        android:textSize="17sp"
+        android:gravity="center"
+        android:textStyle="bold"/>
+</LinearLayout>

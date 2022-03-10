@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/primaryColor</item>
+    </style>
+
+    <style name="image_circle_style">
+        <item name="cornerSize">50%</item>
+    </style>
+</resources>

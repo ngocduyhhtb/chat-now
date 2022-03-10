@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "399786207228",
+    "project_id": "chatnow-78f92",
+    "storage_bucket": "chatnow-78f92.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399786207228:android:953d10330fc9098c22b479",
+        "android_client_info": {
+          "package_name": "com.nduy.realtimechatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "399786207228-ogkrlftc0rqsm1j7a5hcdb5h48q1tm9h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nduy.realtimechatapp",
+            "certificate_hash": "eced2d3acb06531afd04283aab4c77ac4c558a62"
+          }
+        },
+        {
+          "client_id": "399786207228-l8plctuth9lkaa9qgb0kf6fr90jqs7kb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbpT-05-sPlY0Ou85_-XCsf62XqKf0Q0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "399786207228-l8plctuth9lkaa9qgb0kf6fr90jqs7kb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
